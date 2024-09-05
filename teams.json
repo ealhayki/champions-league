@@ -1,0 +1,154 @@
+{
+    "Pot 1": [
+        {
+            "name": "Manchester City",
+            "country": "England"
+        },
+        {
+            "name": "Bayern Munich",
+            "country": "Germany"
+        },
+        {
+            "name": "Real Madrid",
+            "country": "Spain"
+        },
+        {
+            "name": "Paris SG",
+            "country": "France"
+        },
+        {
+            "name": "Liverpool",
+            "country": "England"
+        },
+        {
+            "name": "Inter",
+            "country": "Italy"
+        },
+        {
+            "name": "Leipzig",
+            "country": "Germany"
+        },
+        {
+            "name": "Borussia Dortmund",
+            "country": "Germany"
+        },
+        {
+            "name": "Barcelona",
+            "country": "Spain"
+        }
+    ],
+    "Pot 2": [
+        {
+            "name": "Atletico Madrid",
+            "country": "Spain"
+        },
+        {
+            "name": "Bayer Leverkusen",
+            "country": "Germany"
+        },
+        {
+            "name": "Juventus",
+            "country": "Italy"
+        },
+        {
+            "name": "Benfica",
+            "country": "Portugal"
+        },
+        {
+            "name": "Atlanta",
+            "country": "Italy"
+        },
+        {
+            "name": "Arsenal",
+            "country": "England"
+        },
+        {
+            "name": "Club Brugge",
+            "country": "Belgium"
+        },
+        {
+            "name": "Shakhtar Donetsk",
+            "country": "Ukraine"
+        },
+        {
+            "name": "AC Milan",
+            "country": "Italy"
+        }
+    ],
+    "Pot 3": [
+        {
+            "name": "Feyenoord",
+            "country": "Netherlands"
+        },
+        {
+            "name": "Sporting CP",
+            "country": "Portugal"
+        },
+        {
+            "name": "PSV",
+            "country": "Netherlands"
+        },
+        {
+            "name": "Dinamo Zagreb",
+            "country": "Croatia"
+        },
+        {
+            "name": "Lille",
+            "country": "France"
+        },
+        {
+            "name": "Fenerbahce",
+            "country": "Turkey"
+        },
+        {
+            "name": "Celtic",
+            "country": "Scotland"
+        },
+        {
+            "name": "Bodo/Glimt",
+            "country": "Norway"
+        },
+        {
+            "name": "Galatasaray",
+            "country": "Turkey"
+        }
+    ],
+    "Pot 4": [
+        {
+            "name": "AS Monaco",
+            "country": "France"
+        },
+        {
+            "name": "Sparta Praha",
+            "country": "Czech"
+        },
+        {
+            "name": "Aston Villa",
+            "country": "England"
+        },
+        {
+            "name": "Girona",
+            "country": "Spain"
+        },
+        {
+            "name": "Bologna",
+            "country": "Italy"
+        },
+        {
+            "name": "Stuttgart",
+            "country": "Germany"
+        },
+        {
+            "name": "Strum Graz",
+            "country": "Austria"
+        },
+        {
+            "name": "Stade Brestois",
+            "country": "France"
+        },
+        {
+            "name": "AEK Athens",
+            "country": "Greece"
+        }
+    ]
+}
